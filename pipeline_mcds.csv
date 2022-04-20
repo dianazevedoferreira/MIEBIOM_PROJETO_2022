@@ -1,0 +1,101 @@
+CIGIF;DIGIF;TIPO
+A22949;UREIA, S/U;A
+A21620;CREATININA, S/U;A
+A22271;IONOGRAMA (NA, K, CL), S/U;A
+A22073;GLUCOSE, PESQUISA, U;A
+A24347;TEMPO DE PROTROMBINA, S;A
+A24209;HEMOGRAMA COM FORMULA LEUCOCITARIA (ERITROGRAMA, CONTAGEM;A
+A24359;TEMPO DE TROMBOPLASTINA PARCIAL ACTIVADO (APTT), S;A
+A26025;HEPATITE B - ANTI HBS;A
+A26031;HEPATITE C - ANTI HCV;A
+A24380;ANTI-BETA 2 GLICOPROTEINA-1,;A
+A21412;CALCULO, EXAME QUIMICO;A
+A24078;ESTUDO MORFOLOGICO DO SANGUE PERIFERICO APOS ENRIQUECIMENTO, S;A
+A21271;APOLIPOPROTEINAS A1, A2, B E E, S;A
+A25295;MACROGLOBULINA ALFA-2, S                           ;A
+A21396;CALCIO TOTAL, S/U;A
+A21513;CLORETOS, S/U/L;A
+A21343;BILIRRUBINA TOTAL E DIRECTA, S/L;A
+A21101;ACIDO URICO, S/U/L;A
+A22897;TIROXINA LIVRE (FT4), S;A
+A25550;ANTICORPOS ANTI-RECEPTOR DA TSH (TRAB);A
+A21526;COBRE, DOSEAMENTO POR ABSORCAO ATOMICA, S/U/L/TECIDOS;A
+A21448;CHUMBO, S/U;A
+A21074;ACIDO FOLICO, S;A
+A22768;SANGUE OCULTO, PESQUISA, FEZES;A
+A22253;HORMONA TIROESTIMULANTE (TSH), S;A
+A22928;TRIIODOTIRONINA TOTAL (T3), S;A
+A22992;VITAMINA D - 25 HIDROXI, S;A
+A22925;TRIIODOTIRONINA LIVRE (FT3), S;A
+A25070;Anticorpos anti-tiroideus, tiroglobulina (TG), doseamento;A
+A22900;TIROXINA TOTAL (T4), S;A
+A22076;GLUCOSE, DOSEAMENTO, S/U/L;A
+A21665;DESIDROGENASE LACTICA (LDH), S/U/L;A
+A21775;DROGAS DE ABUSO, PESQUISA, CADA, S/U;A
+A21372;CA 125 ;A
+A21370;CA 19-9 ;A
+A25071;Anticorpos anti-tiroideus (TPO), doseamento;A
+A22790;SUBSTANCIAS REDUTORAS, PESQUISA, U;A
+A25096;CERULOPLASMINA, S                ;A
+A21587;CORTISOL;A
+A21401;CALCITONINA, S;A
+A26037;HEPATITE E - ANTI-HEV;A
+A22151;HEMOGLOBINA GLICOSILADA (A1C), S;A
+A22793;SODIO, S/U;A
+A22617;POTASSIO, S/U;A
+A22114;GONADOTROFINA CORIONICA (HCG-DIAGNOSTICO GRAVIDEZ), U;A
+A22329;LIPASE, S/U;A
+A21321;BETA-2-MICROGLOBULINA, S;A
+A21261;ANTIGENIO ESPECIFICO DA PROSTATA - PSA TOTAL, S;A
+A26035;HEPATITE DELTA - ANTI HDV TOTAL;A
+A26268;REACCAO DE WRIGHT/HUDDLESON/OUTRAS PROV.SEROLOGICAS AGLUTINACAO, BRUCELOSE, S/L;A
+M10405;Tórax, uma incidência;E
+M17130;Ecografia abdominal superior;E
+M17135;Ecografia renal e supra-renal;E
+M17105;Ecografia mamária;E
+M17170;Ecografia vesical e supra pública;E
+M13100;Mamografia bilateral;E
+M10406;Tórax, duas incidências;E
+M17281;Ecografia Ginecológica Por Via Endocavitária (Inclui Avaliação Pélvica Via Suprapúbica);E
+M17060;Ecografia cervical (partes moles);E
+M17185;Ecografia de Partes Moles;E
+M10955;Osteodensitometria da coluna lombar e do colo femural;E
+M17155;Ecografia pélvica por via supra púbica;E
+M17205;Doppler abdominal, cada viscera ou território vascular;E
+M11010;Abdomen Simples 1 Incidencia;E
+M17230;Ecografia articular;E
+M17165;Ecografia Pos-Miccional Com Calculo Do Residuo Urinario;E
+M17040;Ecografia da Tiroide;E
+M10865;Pé, duas incidências;E
+M10781;Mão, duas incidências;E
+M10880;Dedos do pé, duas incidências;E
+M10830;Joelho,  duas incidências;E
+M10765;Punho, duas incidências;E
+M10520;Coluna cervical, duas incidências;E
+M10600;Bacia;E
+M10545;Coluna lombar, duas incidências;E
+M10855;Tornozelo, duas incidências;E
+M10721;Ombro, duas incidências;E
+M10553;Coluna lombo-sagrada, hiperflexão e hiperextensão;E
+M11130;Trânsito esofágico;E
+M17211;Ecografia escrotal;E
+M10790;Idade óssea (mão e punho);E
+M10535;Coluna dorsal, duas incidências;E
+M10589;Articulações sacro-ilíacas, uma incidência bilateral;E
+M10811;Anca bilateral, duas incidências;E
+M10920;Osteodensitometria da coluna lombar;E
+M11500;Cistografia  retrógrada com estudo de refluxo vesico-ureteral e estudo pos-miccional;E
+M10930;Osteodensitometria do colo femural;E
+M10555;Coluna lombo-sagrada em carga, duas incidências;E
+M17050;Ecografia das glândulas salivares;E
+M17015;Ecografia encefálica transfontanelar;E
+M17120;Ecografia torácica;E
+M11140;Trânsito gastro-duodenal monocontraste;E
+M10913;Esqueleto (Adulto);E
+M11230;Colangiografia por dreno externo (Kehr);E
+M17150;Ecografia prostática e das vesículas seminais, por via endocavitária;E
+M10524;Coluna cervical, hiperflexão e hiperextensão;E
+M17299;Doppler (adicional a qualquer dos exames de ecografia);E
+M10585;Radiografia Da Coluna, Filme Extralongo, Duas Incidências;E
+M10935;Osteodensitometria do punho;E
+M10745;Cotovelo, duas incidências;E
